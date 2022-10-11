@@ -1,0 +1,9 @@
+{
+    "name": "Eieruhr",
+    "short_name": "Eggs",
+    "theme_color": "#343434",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
